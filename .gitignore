@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# IDE settings
+.vscode/
+
+# Logs
+*.log
+
+# Build output
+build/
+dist/
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
